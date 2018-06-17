@@ -10,7 +10,7 @@ const Container = styled.div`
     right: 0;
     width: 40%;
     height: 100%;
-    background: #6ead3a;
+    background: #004080;
     padding: 30px;
     overflow: auto;
     box-shadow: -2px -3px 5px rgba(0, 0, 0, 0.3);

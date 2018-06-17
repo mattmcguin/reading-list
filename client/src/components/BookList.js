@@ -14,10 +14,10 @@ const Book = styled.li`
     margin: 12px;
     padding: 10px;
     border-radius: 4px;
-    border: 1px solid #6ead3a;
+    border: 1px solid #004080;
     box-shadow: 1px 2px 3px rgba(0, 0, 0, 0.3);
     cursor: pointer;
-    color: #6ead3a;
+    color: #004080;
 `;
 
 class _BookList extends Component {
